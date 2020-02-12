@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Karla:400,700|Noto+Serif:400,700,700i&display=swap');
+
+@import url("components/container.css");
+@import url("components/row.css");
+@import url("components/column.css");
+@import url("components/card.css");
+@import url("components/card2.css");
+@import url("components/bloc.css");
+@import url("components/select.css");
+@import url("components/menus.css");
+
+
+
+body {
+	font-family: 'Karla', sans-serif;
+	justify-content: space-between;
+}
+
+h3 {
+	font-family: 'Noto Serif', serif;
+	font-style: italic;
+	font-weight: bold;
+}
+
+
+h2 {
+	font-family: 'Noto Serif', serif;
+}
+
+
+h1 {
+	font-family: 'Noto Serif', serif;
+	font-weight: bold;
+}
+
+
+
+
+
+
+
+* {
+  box-sizing: border-box;
+}
+
+
+
+/* Responsive columns */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
+

@@ -1,0 +1,11 @@
+
+.row {
+	margin: -15px -15px;
+    text-align: -webkit-center;}
+
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}

@@ -1,0 +1,31 @@
+/* Style the counter cards */
+.card2 { 
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.4) 99.99%, rgba(255, 255, 255, 0) 100%), url(../../images/ananass.jpg);
+  background-size: cover;
+  background-position: center;
+  width:180px;
+  padding: 180px;
+  text-align: right;
+  padding-bottom: 100%
+}
+
+.card2 h1 {
+	height: 110px;
+    width: 212px;
+    margin-left: -110px;
+    padding-left: 12px;
+    text-align: center;
+    font-size: 23px;
+    margin-top: -50px;
+    color: #FF9000;
+}
+
+.card2 a {
+	background-color: #EE7674;
+    padding: 11px 74px;
+    border-radius: 4px;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: -84px;
+}

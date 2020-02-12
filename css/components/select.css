@@ -1,0 +1,16 @@
+.select {
+	margin-bottom: 10px;
+	color:green;
+	overflow: hidden;
+    border-radius: 5px;
+}
+
+select {
+  appearance: none;
+  outline: 0;
+  border: 0 !important;
+  background-image: none;
+  box-shadow: none;
+  font-size: 1.1em;
+}
+

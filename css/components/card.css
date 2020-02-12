@@ -1,0 +1,35 @@
+
+.card {
+  width:180px;
+  padding: 300px;
+  text-align: right;
+  padding-top: 40px;
+  padding-left: 40px;
+  height: 750px;
+  padding-right: 660px;
+  padding-bottom: 380px;
+}
+
+.card h1 {
+	margin-left: -80px;
+    text-align: -webkit-left;
+    font-size: 32px;
+    margin-top: -50px;
+    color:  #EE7674;
+    margin-bottom: 193px;
+}
+
+
+.card a {
+    padding: 13px 48px;
+    border-radius: 4px;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: -80px;
+}
+
+.card img {
+  width: 200px;
+}
+
